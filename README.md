@@ -1,0 +1,1 @@
+This project contains the source for Kaggle competition (Titanic: Machine Learning from Disaster). 
